@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Pair Programming and Success "
-date:       2018-06-06 21:32:22 +0000
+date:       2018-06-06 17:32:23 -0400
 permalink:  pair_programming_and_success
 ---
 
