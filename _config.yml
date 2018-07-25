@@ -1,10 +1,10 @@
 # Site settings
-title: Never say never to a developer
+title: A roadmap to web Development
 header-img: img/home-bg.png
 email: ritchey0713@gmail.com
 copyright_name: ritchey0713
 description: > # this means to ignore newlines until "baseurl:"
-  My new adventure as a developer
+  My greatest adventure, my quest as a Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ritchey0713
