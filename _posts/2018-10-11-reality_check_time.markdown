@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Reality check time!"
-date:       2018-10-11 14:59:09 +0000
+date:       2018-10-11 10:59:10 -0400
 permalink:  reality_check_time
 ---
 
